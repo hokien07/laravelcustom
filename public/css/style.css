@@ -1,0 +1,16 @@
+#container {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #1f648b;
+    text-align: center;
+}
+
+header {
+    min-height: 100px;
+    background-color: #2a88bd;
+}
+
+footer {
+    min-height: 100px;
+    background-color: #2ab27b;
+}
